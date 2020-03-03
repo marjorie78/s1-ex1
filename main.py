@@ -9,8 +9,8 @@ print("so we continue on the same line", end="(end can be whatever we want). ")
 print("Pretty cool, yes?")
 # print can also print expressions
 print(2+4)
-print("the value of 2+5 is ", 2+5)
-print("Python, is 2 greater than 4? the answer is: ", 2 > 4)
+print("the value of 5+5 is ", 5+5)
+print("Python, is 4 greater than 6? the answer is: ", 4 > 6)
 print("we can use print as a calculator: ", (2 + 3*2)**2)  # same as (2 + 6) to the power of 2 = 8 x 8 = 64
 # we will talk more on how to do math with python
 print("we can print a list of items: ", "dog", "cat", "mouse", "elephant", "moose")
